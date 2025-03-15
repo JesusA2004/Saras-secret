@@ -1,6 +1,6 @@
-DROP DATABASE IF EXISTS saraSecretBd;
-CREATE DATABASE saraSecretBd;
-USE saraSecretBd;
+DROP DATABASE IF EXISTS bdSaras;
+CREATE DATABASE bdSaras;
+USE bdSaras;
 show tables;
 
 /* Crear tabla de usuarios
